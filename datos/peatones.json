@@ -1,0 +1,17 @@
+[
+    {
+        "fecha": "2025-05-15T10:00:00",
+        "evento": "PEATON",
+        "distancia_cm": 45
+    },
+    {
+        "fecha": "2025-05-15T10:01:30",
+        "evento": "PEATON",
+        "distancia_cm": 38
+    },
+    {
+        "fecha": "2025-05-15T10:03:10",
+        "evento": "PEATON",
+        "distancia_cm": null
+    }
+]
